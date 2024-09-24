@@ -1,4 +1,4 @@
-**Market Basket Analysis**
+**Market Basket Analysis for Retail Optimization**
 
 Market basket analysis is a widely adopted data mining technique that helps businesses, particularly in the retail industry, to uncover patterns in customer purchasing behavior. By analyzing point-of-sale (POS) transaction data, businesses can identify groups of products that are frequently purchased together, allowing them to understand customer preferences and purchasing patterns. This insight is invaluable for decision-making, particularly when it comes to optimizing product placements, designing promotional strategies, and increasing cross-selling opportunities. For instance, if certain products like bread and butter are commonly bought together, placing them close to each other in stores can boost sales.
 
